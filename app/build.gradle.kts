@@ -1,6 +1,6 @@
 import org.jetbrains.kotlin.config.KotlinCompilerVersion
 
-plugins{
+plugins {
     id("com.android.application")
     kotlin("android")
     kotlin("android.extensions")
